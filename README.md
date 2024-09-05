@@ -1,22 +1,19 @@
 # Hello, I'm Emiliano Suarez
 <a href="https://www.linkedin.com/in/emiliano-suarez-65b535248/"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a student with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Conduct a security audit                      | <a href="https://google.com">Detection Lab</a>|
+| Conduct a Security Audit                      | <a href="https://docs.google.com/document/d/1ZADJEBgKCuMHTptzDREDF_VN6ZTDN9rpvoplhS8xb2w/edit?usp=sharing">Controls and Compliance Checklist</a>|
 
+<!--
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
@@ -49,7 +46,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
+-->
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://docs.google.com/document/d/1ZADJEBgKCuMHTptzDREDF_VN6ZTDN9rpvoplhS8xb2w/edit?usp=sharing">Controls and Compliance Checklist

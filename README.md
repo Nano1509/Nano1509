@@ -11,6 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Wireshark Incident Report Analysis            | <a href="https://docs.google.com/document/d/1apYVTGW2k1Q6QKy0wPvTQMP_PwGE8A_Pe_BAYtyrINI/edit">Cybersecurity Incident Report</a>|
 | Conduct a Security Audit                      | <a href="https://docs.google.com/document/d/1ZADJEBgKCuMHTptzDREDF_VN6ZTDN9rpvoplhS8xb2w/edit?usp=sharing">Controls and Compliance Checklist</a>|
 
 <!--
